@@ -1078,7 +1078,7 @@ function g0() {
             defaultChecked: void 0,
             defaultValue: void 0,
             value: void 0,
-            checked: n ? ? e._wrapperState.initialChecked
+            checked: n ?? e._wrapperState.initialChecked
         })
     }
 
@@ -4344,8 +4344,8 @@ Error generating stack: ` + o.message + `
         return {
             value: e,
             source: null,
-            stack: n ? ? null,
-            digest: t ? ? null
+            stack: n ?? null,
+            digest: t ?? null
         }
     }
 
@@ -6770,7 +6770,7 @@ Error generating stack: ` + o.message + `
     }
 
     function yc(e, t, n, r, l, o, u, d, m) {
-        return e = pu(n, r, !0, e, l, o, u, d, m), e.context = gc(null), n = e.current, r = be(), l = cn(n), o = Bt(r, l), o.callback = t ? ? null, on(n, o, l), e.current.lanes = l, mr(e, l, r), lt(e, r), e
+        return e = pu(n, r, !0, e, l, o, u, d, m), e.context = gc(null), n = e.current, r = be(), l = cn(n), o = Bt(r, l), o.callback = t ?? null, on(n, o, l), e.current.lanes = l, mr(e, l, r), lt(e, r), e
     }
 
     function co(e, t, n, r) {
@@ -7032,7 +7032,7 @@ Error generating stack: ` + o.message + `
             l = !1,
             o = "",
             u = xc;
-        if (n != null && (n.unstable_strictMode === !0 && (l = !0), n.identifierPrefix !== void 0 && (o = n.identifierPrefix), n.onRecoverableError !== void 0 && (u = n.onRecoverableError)), t = yc(t, null, e, 1, n ? ? null, l, !1, o, u), e[Ft] = t.current, jr(e), r)
+        if (n != null && (n.unstable_strictMode === !0 && (l = !0), n.identifierPrefix !== void 0 && (o = n.identifierPrefix), n.onRecoverableError !== void 0 && (u = n.onRecoverableError)), t = yc(t, null, e, 1, n ?? null, l, !1, o, u), e[Ft] = t.current, jr(e), r)
             for (e = 0; e < r.length; e++) n = r[e], l = n._getVersion, l = l(n._source), t.mutableSourceEagerHydrationData == null ? t.mutableSourceEagerHydrationData = [n, l] : t.mutableSourceEagerHydrationData.push(n, l);
         return new po(t)
     }, ot.render = function(e, t, n) {
