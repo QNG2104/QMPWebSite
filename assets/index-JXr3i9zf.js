@@ -10338,7 +10338,7 @@ const pf = () => typeof window < "u" && ("ontouchstart" in window || "ontouchsta
             return c > 5 && c <= 7 ? "Why you get up so early? Great morning ya?" : c > 7 && c <= 11 ? "Good morning 🌞" : c > 11 && c <= 13 ? "Btw, did you have a lunch?" : c > 13 && c <= 17 ? "Good afternoon!" : c > 17 && c <= 20 ? "Good everning🌙" : c > 20 && c <= 23 ? "Good night✨" : "Btw, why are you still here this time 😨?"
         })();
         N.useRef(null);
-        const s = "I am a software engineer with nearly three years of experience in developing and maintaining efficient, high-performance applications. Skilled in low level programing, system optimization, and software architecture, with a strong problem-solving mindset. I'm passionate about building efficient, applications that solve real-world problems.",
+        const s = "I am a software engineer with nearly three years of experience in developing and maintaining efficient, high-performance applications. Skilled in low level programing, system optimization, and software architecture, with a strong problem-solving mindset.",
             f = a;
         return g.jsxs(Mo, {
             className: "pt-[12rem] -mt-[5.25rem]",
@@ -10365,7 +10365,7 @@ const pf = () => typeof window < "u" && ("ontouchstart" in window || "ontouchsta
                         }), g.jsx($c, {
                             isAbsolutelyPositioned: !0,
                             children: g.jsx("a", {
-                                href: "https://drive.usercontent.google.com/uc?id=1ihBLVtSDZbibWkGtU6CXDAMTXkMmN8hA&export=download",
+                                href: "https://drive.usercontent.google.com/uc?id=1Hk8sDjSMq_0sU6Yiu7yLFS0lfLsKS69E&export=download",
                                 className: "flex items-center space-x-3 font-semibold text-lg hover:text-n-1 transition-colors duration-300",
                                 children: g.jsx("ul", {
                                     className: "hidden absolute -left-[6.0rem] bottom-[1.5rem] px-4 py-3 bg-n-9/40 backdrop-blur border border-n-1/20 rounded-2xl xl:flex items-center space-x-3 text-white",
