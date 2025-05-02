@@ -9240,7 +9240,7 @@ const K2 = "/assets/background-BF0zYYBx.jpg",
     vp = [{
         id: "1",
         title: "C++ Software Development",
-        text: "I am a software engineer with nearly three years of experience in developing and maintaining efficient, high-performance applications. Skilled in low level programing, system optimization, and software architecture, with a strong problem-solving mindset. A highly motivated learner who thrives on understanding new technologies at a deep, fundamental level. Proficient in building robust software solutions and adapting quickly to new challenges. Experienced in working within agile development teams to deliver reliable and scalable applications. I aspire to create high-performance products that can use the following language and tools:",
+        text: "Proficient in building robust software solutions and adapting quickly to new challenges. I aspire to create high-performance products that can use the following language and tools:",
         backgroundUrl: "./src/assets/benefits/card-2.svg",
         icons: [{
             src: np,
@@ -10338,7 +10338,7 @@ const pf = () => typeof window < "u" && ("ontouchstart" in window || "ontouchsta
             return c > 5 && c <= 7 ? "Why you get up so early? Great morning ya?" : c > 7 && c <= 11 ? "Good morning 🌞" : c > 11 && c <= 13 ? "Btw, did you have a lunch?" : c > 13 && c <= 17 ? "Good afternoon!" : c > 17 && c <= 20 ? "Good everning🌙" : c > 20 && c <= 23 ? "Good night✨" : "Btw, why are you still here this time 😨?"
         })();
         N.useRef(null);
-        const s = "I am passionate about building efficient, applications that solve real-world problems. I thrive in collaborative environments focused on productivity and innovation.",
+        const s = "I am a software engineer with nearly three years of experience in developing and maintaining efficient, high-performance applications. Skilled in low level programing, system optimization, and software architecture, with a strong problem-solving mindset. I'm passionate about building efficient, applications that solve real-world problems.",
             f = a;
         return g.jsxs(Mo, {
             className: "pt-[12rem] -mt-[5.25rem]",
