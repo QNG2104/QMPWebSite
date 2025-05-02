@@ -9206,19 +9206,19 @@ const K2 = "/assets/background-BF0zYYBx.jpg",
     pp = "/assets/stm32-cltgE_LY.png",
     hp = [{
         id: "0",
-        title: "Telegram",
+        title: "Facebook",
         iconUrl: Z2,
-        url: "https://t.me/nbqduong"
+        url: "https://www.facebook.com/qgngh.pham/"
     }, {
         id: "1",
         title: "Mail",
         iconUrl: J2,
-        url: "mailto:nbqduong@gmail.com"
+        url: "mailto:quang.mpham2104@gmail.com"
     }, {
         id: "2",
         title: "LinkedIn",
         iconUrl: q2,
-        url: "https://www.linkedin.com/in/nbqduong/"
+        url: "https://www.linkedin.com/in/quangmpham2104/"
     }],
     mp = [{
         id: "0",
@@ -9240,7 +9240,7 @@ const K2 = "/assets/background-BF0zYYBx.jpg",
     vp = [{
         id: "1",
         title: "C++ Software Development",
-        text: "I aspire to create high-performance products that can use the following language and tools:",
+        text: "I am a software engineer with nearly three years of experience in developing and maintaining efficient, high-performance applications. Skilled in low level programing, system optimization, and software architecture, with a strong problem-solving mindset. A highly motivated learner who thrives on understanding new technologies at a deep, fundamental level. Proficient in building robust software solutions and adapting quickly to new challenges. Experienced in working within agile development teams to deliver reliable and scalable applications. I aspire to create high-performance products that can use the following language and tools:",
         backgroundUrl: "./src/assets/benefits/card-2.svg",
         icons: [{
             src: np,
@@ -9449,7 +9449,7 @@ function kp() {
             children: [g.jsx("a", {
                 className: "block w-[10rem] xl:mr-8",
                 href: "#home",
-                children: "Duong Nguyen"
+                children: "Pham Minh Quang"
             }), g.jsxs("nav", {
                 className: `${a?"flex":"hidden"} fixed top-[5rem] left-0 right-0 bottom-0 bg-n-8 lg:static lg:flex ml-auto lg:bg-transparent`,
                 children: [g.jsx("div", {
@@ -10145,7 +10145,7 @@ const pf = () => typeof window < "u" && ("ontouchstart" in window || "ontouchsta
                     className: "relative z-1 max-w-[62rem] mx-auto text-center mb-[3.875rem] md:mb-20 lg:mb-[6.25rem]",
                     children: [g.jsxs("h1", {
                         className: "h1 mb-6",
-                        children: ["Nguyen Bao Quoc Duong ", "", g.jsxs("span", {
+                        children: ["Pham Minh Quang ", "", g.jsxs("span", {
                             className: "inline-block relative",
                             children: [" ", g.jsx("img", {
                                 src: X2,
