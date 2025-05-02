@@ -9240,7 +9240,7 @@ const K2 = "/assets/background-BF0zYYBx.jpg",
     vp = [{
         id: "1",
         title: "C++ Software Development",
-        text: "I am a software engineer with nearly three years of experience in developing and maintaining efficient, high-performance applications. Skilled in low level programing, system optimization, and software architecture, with a strong problem-solving mindset. A highly motivated learner who thrives on understanding new technologies at a deep, fundamental level. Proficient in building robust software solutions and adapting quickly to new challenges. Experienced in working within agile development teams to deliver reliable and scalable applications. I aspire to create high-performance products that can use the following language and tools:",
+        text: "I am a software engineer with nearly three years of experience in developing and maintaining efficient, high-performance applications. Skilled in low level programing, system optimization, and software architecture, with a strong problem-solving mindset. I aspire to create high-performance products that can use the following language and tools:",
         backgroundUrl: "./src/assets/benefits/card-2.svg",
         icons: [{
             src: np,
@@ -9278,7 +9278,7 @@ const K2 = "/assets/background-BF0zYYBx.jpg",
     }, {
         id: "0",
         title: "This website",
-        text: "This website was created for my programming hobby, it created by using the following technology:",
+        text: "This website was created as a preview of what I am able to do. It created by using the following technology:",
         backgroundUrl: "./src/assets/benefits/card-1.svg",
         icons: [{
             src: rp,
